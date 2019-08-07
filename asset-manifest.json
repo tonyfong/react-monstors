@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-monstors/static/css/main.7d244f85.chunk.css",
-    "main.js": "/react-monstors/static/js/main.6317a77d.chunk.js",
-    "main.js.map": "/react-monstors/static/js/main.6317a77d.chunk.js.map",
+    "main.js": "/react-monstors/static/js/main.dbf991ea.chunk.js",
+    "main.js.map": "/react-monstors/static/js/main.dbf991ea.chunk.js.map",
     "runtime~main.js": "/react-monstors/static/js/runtime~main.bbdc7d49.js",
     "runtime~main.js.map": "/react-monstors/static/js/runtime~main.bbdc7d49.js.map",
     "static/js/2.65aa1cca.chunk.js": "/react-monstors/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/react-monstors/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/react-monstors/index.html",
-    "precache-manifest.38d62205c2f67597a8f47d3f156bd863.js": "/react-monstors/precache-manifest.38d62205c2f67597a8f47d3f156bd863.js",
+    "precache-manifest.6f5f2b77516cacbd10d1dd8351f803d5.js": "/react-monstors/precache-manifest.6f5f2b77516cacbd10d1dd8351f803d5.js",
     "service-worker.js": "/react-monstors/service-worker.js",
     "static/css/main.7d244f85.chunk.css.map": "/react-monstors/static/css/main.7d244f85.chunk.css.map"
   }
